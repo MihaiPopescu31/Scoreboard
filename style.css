@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #1b244a;
+}
+
+.board {
+  display: flex;
+  justify-content: space-around;
+}
+
+h3 {
+  color: white;
+}

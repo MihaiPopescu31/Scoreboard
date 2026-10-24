@@ -1,0 +1,1 @@
+const homeScoreELement = document.querySelector("");
